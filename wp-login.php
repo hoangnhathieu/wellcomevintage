@@ -12,7 +12,11 @@
 <link rel="stylesheet" id="login-css" href="https://hoangnhathieu.github.io/wellcomevintage/wp-admin/css/login.min.css?ver=5.7.2" type="text/css" media="all">
 	<meta name="referrer" content="strict-origin-when-cross-origin">
 		<meta name="viewport" content="width=device-width">
-		</head>
+	<link rel="icon" href="https://hoangnhathieu.github.io/wellcomevintage/wp-content/uploads/2021/07/cropped-brand3-32x32.png" sizes="32x32">
+<link rel="icon" href="https://hoangnhathieu.github.io/wellcomevintage/wp-content/uploads/2021/07/cropped-brand3-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://hoangnhathieu.github.io/wellcomevintage/wp-content/uploads/2021/07/cropped-brand3-180x180.png">
+<meta name="msapplication-TileImage" content="https://hoangnhathieu.github.io/wellcomevintage/wp-content/uploads/2021/07/cropped-brand3-270x270.png">
+	</head>
 	<body class="login no-js login-action-login wp-core-ui  locale-vi">
 	<script type="text/javascript">
 		document.body.className = document.body.className.replace('no-js','js');
@@ -92,7 +96,7 @@ var _wpUtilSettings = {"ajax":{"url":"\/myproject\/wordpress\/wordpress\/wp-admi
 <script type="text/javascript" src="https://hoangnhathieu.github.io/wellcomevintage/wp-includes/js/wp-util.min.js?ver=5.7.2" id="wp-util-js"></script>
 <script type="text/javascript" id="user-profile-js-extra">
 /* <![CDATA[ */
-var userProfileL10n = {"user_id":"0","nonce":"9580063458"};
+var userProfileL10n = {"user_id":"0","nonce":"8597c3f5aa"};
 /* ]]> */
 </script>
 <script type="text/javascript" id="user-profile-js-translations">

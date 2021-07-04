@@ -19,6 +19,14 @@
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://hoangnhathieu.github.io/wellcomevintage/wp-content/uploads/2021/07/cropped-brand3-32x32.png</url>
+	<title>chó &#8211; VINTAGE</title>
+	<link>https://hoangnhathieu.github.io/wellcomevintage</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 	<item>
 		<title>Chó Border Collie</title>
 		<link>https://hoangnhathieu.github.io/wellcomevintage/cho/cho-border-collie/</link>
@@ -156,7 +164,7 @@
 			    </header>
 			
 		    <div class="twp-share-container">
-				<div class="twp-social-icons twp-social-facebook">										<a class="twp-icon-holder" rel="nofollow"  onclick="twp_be_popup_new_window( event,'https://www.facebook.com/sharer/sharer.php?u=https://hoangnhathieu.github.io/wellcomevintage/cho/cho-border-collie/'); "  href="https://www.facebook.com/sharer/sharer.php?u=https://hoangnhathieu.github.io/wellcomevintage/cho/cho-border-collie/" >
+				<div class="twp-social-icons twp-social-facebook">										<a class="twp-icon-holder" rel="nofollow" onclick="twp_be_popup_new_window( event,&#039;https://www.facebook.com/sharer/sharer.php?u=https://hoangnhathieu.github.io/wellcomevintage/cho/cho-border-collie/&#039;); " href="https://www.facebook.com/sharer/sharer.php?u=https://hoangnhathieu.github.io/wellcomevintage/cho/cho-border-collie/">
 			                                <span class="twp-social-count"><i class="booster-icon twp-plus"></i></span>												<span class="twp-share-media">
 													<span class="twp-share-label">
 				                                        <i class="booster-icon twp-facebook_fill"></i>
@@ -165,7 +173,7 @@
 				                                    </span>
 												</span>
 																					</a>
-									</div><div class="twp-social-icons twp-social-twitter">										<a class="twp-icon-holder" rel="nofollow"  onclick="twp_be_popup_new_window( event,'https://twitter.com/intent/tweet?text=Chó%20Border%20Collie&#038;url=https://hoangnhathieu.github.io/wellcomevintage/cho/cho-border-collie/'); "  href="https://twitter.com/intent/tweet?text=Chó%20Border%20Collie&#038;url=https://hoangnhathieu.github.io/wellcomevintage/cho/cho-border-collie/" >
+									</div><div class="twp-social-icons twp-social-twitter">										<a class="twp-icon-holder" rel="nofollow" onclick="twp_be_popup_new_window( event,&#039;https://twitter.com/intent/tweet?text=Chó%20Border%20Collie&#038;url=https://hoangnhathieu.github.io/wellcomevintage/cho/cho-border-collie/&#039;); " href="https://twitter.com/intent/tweet?text=Chó%20Border%20Collie&#038;url=https://hoangnhathieu.github.io/wellcomevintage/cho/cho-border-collie/">
 			                                <span class="twp-social-count"><i class="booster-icon twp-plus"></i></span>												<span class="twp-share-media">
 													<span class="twp-share-label">
 				                                        <i class="booster-icon twp-twitter"></i>
@@ -183,7 +191,7 @@
 				                                    </span>
 												</span>
 																					</a>
-									</div><div class="twp-social-icons twp-social-linkedin">										<a class="twp-icon-holder" rel="nofollow"  onclick="twp_be_popup_new_window( event,'http://www.linkedin.com/shareArticle?mini=true&#038;title=Chó%20Border%20Collie&#038;url=https://hoangnhathieu.github.io/wellcomevintage/cho/cho-border-collie/'); "  href="http://www.linkedin.com/shareArticle?mini=true&#038;title=Chó%20Border%20Collie&#038;url=https://hoangnhathieu.github.io/wellcomevintage/cho/cho-border-collie/" >
+									</div><div class="twp-social-icons twp-social-linkedin">										<a class="twp-icon-holder" rel="nofollow" onclick="twp_be_popup_new_window( event,&#039;http://www.linkedin.com/shareArticle?mini=true&#038;title=Chó%20Border%20Collie&#038;url=https://hoangnhathieu.github.io/wellcomevintage/cho/cho-border-collie/&#039;); " href="http://www.linkedin.com/shareArticle?mini=true&#038;title=Chó%20Border%20Collie&#038;url=https://hoangnhathieu.github.io/wellcomevintage/cho/cho-border-collie/">
 																							<span class="twp-share-media">
 				                                    <span class="share-media-nocount">
 													    <i class="booster-icon twp-linkedin"></i>
